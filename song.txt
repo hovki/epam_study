@@ -1,7 +1,3 @@
 pam-param-pam
 taram-lam-taram
 param-pam-param
-
---
-test
---
